@@ -44,6 +44,15 @@ Electronic components are available in different packages, such as through-hole 
 
 
 # EXPECTED OUTPUT:
+<img width="2481" height="1754" alt="electronics_components_1_to_50_aligned_page-0001" src="https://github.com/user-attachments/assets/e28c5532-e5c9-4e62-9902-b6887a494cc3" />
+<img width="2481" height="1754" alt="electronics_components_1_to_50_aligned_page-0002" src="https://github.com/user-attachments/assets/4b60be98-6c1e-43f8-bdd2-72a6ae4c7bfe" />
+<img width="2481" height="1754" alt="electronics_components_1_to_50_aligned_page-0003" src="https://github.com/user-attachments/assets/7be0cfa9-8931-45e8-baa6-ab6f8d1588f6" />
+<img width="2481" height="1754" alt="electronics_components_1_to_50_aligned_page-0004" src="https://github.com/user-attachments/assets/febc502b-5856-455d-9d54-5ac0e6542593" />
+<img width="2481" height="1754" alt="electronics_components_1_to_50_aligned_page-0005" src="https://github.com/user-attachments/assets/51d0a717-71b6-403b-8194-bbdfe42f6909" />
+
+
+
+
 
  
 # RESULT:
